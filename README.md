@@ -31,5 +31,6 @@ Follow these steps to contribute:
 1. Fork the repository.
 2. Add your solutions to the relevant folder.
 3. Create a pull request.
+
 We welcome contributions from the community to make this resource even more valuable.
 
